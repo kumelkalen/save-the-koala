@@ -2,7 +2,6 @@
 wood brown: A89F68;
 army green: 41521F;
 */
-
 *{
 	padding: 0;
 	margin: 0;
@@ -20,4 +19,18 @@ army green: 41521F;
 .div-save{
 	padding-top : 200px;
 
+}
+
+.boton{
+	font-size: 25px;
+	background: #41521F;
+	border: none;
+}
+
+.p-white{
+	color:white;
+}
+
+.koalas-img{
+	width: 100%;
 }
